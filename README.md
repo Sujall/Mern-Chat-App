@@ -15,4 +15,3 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-"# Mern-Chat-App" 
